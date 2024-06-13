@@ -1,4 +1,4 @@
-# babyjson-demo
+# Simplified JSON Parser
 
 Education purpose C++17 JSON parser, teach you how to parsing string and numeric literials, as well as using std::variant and std::optional elegently.
 
